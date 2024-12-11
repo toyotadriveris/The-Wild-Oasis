@@ -48,10 +48,12 @@ const Amount = styled.div`
 function BookingRow({
   booking: {
     id: bookingId,
+    // eslint-disable-next-line no-unused-vars
     created_at,
     startDate,
     endDate,
     numNights,
+    // eslint-disable-next-line no-unused-vars
     numGuests,
     totalPrice,
     status,
