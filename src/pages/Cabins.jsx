@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
 
